@@ -33,7 +33,7 @@
               "requestPersistent" : false
             },
             "title" : "New Round switch",
-            "dropShadow" : true,
+            "dropShadow" : false,
             "enableFullscreen" : false,
             "widgetStyle" : { },
             "titleStyle" : {
