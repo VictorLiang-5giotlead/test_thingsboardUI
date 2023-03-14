@@ -1,0 +1,40 @@
+{
+  "entityType" : "ASSET",
+  "entity" : {
+    "additionalInfo" : {
+      "description" : ""
+    },
+    "assetProfileId" : {
+      "entityType" : "ASSET_PROFILE",
+      "id" : "0fb410b0-8b10-11ed-805a-39b86a964058"
+    },
+    "customerId" : {
+      "entityType" : "CUSTOMER",
+      "id" : "13814000-1dd2-11b2-8080-808080808080"
+    },
+    "externalId" : null,
+    "id" : {
+      "entityType" : "ASSET",
+      "id" : "ab2fca40-c20e-11ed-8cdd-ed62a627ee0a"
+    },
+    "label" : null,
+    "name" : "SP1",
+    "type" : "default"
+  },
+  "relations" : [ {
+    "additionalInfo" : null,
+    "from" : {
+      "entityType" : "ASSET",
+      "id" : "ab2fca40-c20e-11ed-8cdd-ed62a627ee0a"
+    },
+    "to" : {
+      "entityType" : "DEVICE",
+      "id" : "7c59f040-8b10-11ed-805a-39b86a964058"
+    },
+    "type" : "Contains",
+    "typeGroup" : "COMMON"
+  } ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ ]
+  }
+}
