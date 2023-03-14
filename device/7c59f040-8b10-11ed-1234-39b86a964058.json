@@ -1,0 +1,41 @@
+{
+  "entityType" : "DEVICE",
+  "entity" : {
+    "additionalInfo" : {
+      "gateway" : false,
+      "overwriteActivityTime" : false,
+      "description" : ""
+    },
+    "customerId" : {
+      "entityType" : "CUSTOMER",
+      "id" : "16c61330-8bd8-11ed-805a-39b86a964058"
+    },
+    "deviceData" : {
+      "configuration" : {
+        "type" : "DEFAULT"
+      },
+      "transportConfiguration" : {
+        "type" : "DEFAULT"
+      }
+    },
+    "deviceProfileId" : {
+      "entityType" : "DEVICE_PROFILE",
+      "id" : "d69325a0-a6c1-11ed-80bb-691578f8e515"
+    },
+    "externalId" : null,
+    "firmwareId" : null,
+    "id" : {
+      "entityType" : "DEVICE",
+      "id" : "7c59f040-8b10-11ed-1234-39b86a964058"
+    },
+    "label" : "",
+    "name" : "TEST123456",
+    "softwareId" : null,
+    "type" : "Media Player"
+  },
+  "credentials" : {
+    "credentialsId" : "SoV4oUuwSXhmsHsafwq",
+    "credentialsType" : "ACCESS_TOKEN",
+    "credentialsValue" : null
+  }
+}
