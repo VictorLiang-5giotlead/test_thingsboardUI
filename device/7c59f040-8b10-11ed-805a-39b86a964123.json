@@ -26,10 +26,10 @@
     "firmwareId" : null,
     "id" : {
       "entityType" : "DEVICE",
-      "id" : "7c59f040-8b10-11ed-805a-39b86a964058"
+      "id" : "7c59f040-8b10-11ed-805a-39b86a964123"
     },
     "label" : "",
-    "name" : "MP1",
+    "name" : "MP2",
     "softwareId" : null,
     "type" : "Media Player"
   },
