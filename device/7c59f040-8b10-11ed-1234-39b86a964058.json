@@ -37,5 +37,18 @@
     "credentialsId" : "SoV4oUuwSXhmsHsafwq",
     "credentialsType" : "ACCESS_TOKEN",
     "credentialsValue" : null
-  }
+  },
+    "relations" : [ {
+    "additionalInfo" : null,
+    "from" : {
+      "entityType" : "ASSET",
+      "id" : "ab2fca40-c20e-11ed-1234-ed62a627ee0a"
+    },
+    "to" : {
+      "entityType" : "DEVICE",
+      "id" : "7c59f040-8b10-11ed-1234-39b86a964058"
+    },
+    "type" : "Contains",
+    "typeGroup" : "COMMON"
+  } ]
 }
